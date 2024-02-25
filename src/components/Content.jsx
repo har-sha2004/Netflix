@@ -15,7 +15,7 @@ function Content() {
                 loop
                 muted
                 className=" h-[140px] md:h-[300px] w-full rounded-xl"
-            >
+            >    
                 <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
             </video>
